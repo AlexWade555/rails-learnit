@@ -1,6 +1,8 @@
 # Learnit (currently offline)
 
-A marketplace web app for private tutoring lessons.
+A full stack marketplace web application for private tutoring lessons.
+Contains full Create Read Update Delete data management, authentication and authorization.
+
 
 # Authors # 
 
