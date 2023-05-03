@@ -19,8 +19,8 @@ _Built with [Rails Le Wagon Template](https://github.com/lewagon/rails-templates
 
 <h3>To run locally </h3>
 
-<ul> Add a .env file to the root directory with a cloudinary API key (CLOUDINARY_URL=***************)=
-<ul> Then run gh repo clone AlexWade555/rails-learnit
-<ul> Run bundle install
-<ul> Run rails db:create db:migrate db:seed
-<ul> Run rails s
+<ul> Add a .env file to the root directory with a cloudinary API key (CLOUDINARY_URL=***************)= </ul>
+<ul> Then run gh repo clone AlexWade555/rails-learnit </ul>
+<ul> Run bundle install </ul>
+<ul> Run rails db:create db:migrate db:seed </ul>
+<ul> Run rails s </ul>
